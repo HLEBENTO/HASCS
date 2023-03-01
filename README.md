@@ -1,5 +1,5 @@
 # HASCS
-HELLBENT's Automatic Submarine Control System || Space Engineers || For Water Mod 2.0
+HELLBENT's Automatic Submarine Control System || Space Engineers || For Water Mod 3.0
 
 This script is designed to control submarine dive in the game Space Engineers, if you play with the Water Mod.
 
